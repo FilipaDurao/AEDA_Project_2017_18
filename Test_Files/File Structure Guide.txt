@@ -1,0 +1,66 @@
+> CompanyFile.txt
+(Name of the company)
+//then begins the place listing, no blank lines in between//
+(Name of the place)
+(Place's ID)
+(Place's x coordinate)
+(Place's y coordinate)
+//and so on with all the places in the file
+//THE PLACES MUST BE ORDERED BY ID
+
+
+> ClientFile.txt
+/* IF PREMIUM USER */
+(Client's ID)
+(Name)
+(Email)
+(Adress)
+(Phone Number)
+(NIF)
+(Favourite Type Of Bike)
+(password)
+(is using a bike (0 if not using any, begin time in minutes if it is))
+(price to pay so far)
+(ID of the bike he's using (0 if not using any))
+
+/* IF BASIC USER */
+.(basic user temp id -- DONT FORGET THE DOT!!)
+(startTime of using the bike)
+(startPlace ID)
+(ID of the bike he's using)
+
+//and so on with all the clients in the file
+
+
+
+> CompanyBikes.txt
+(First Bike's Type)
+(First Bike's ID)
+(First Bike's PlaceID  (-1 if it's being used at the moment))
+//and so on with all the bikes in the file
+
+
+
+> BikeStores.txt
+(Name)
+(Reputation)
+(Enum all Types of Bikes that the store sells)
+. (This is an intentional dot)
+(Enum the Store's stock)
+// (Type of bike)
+// (Number of bikes of that type)
+// (...)
+. (This is an intentional dot)
+
+//and so on with all the stores
+
+> Scrapyard.txt
+(First Bike's Type)
+(First Bike's ID)
+(First Bike's scrappingDate  (0 if it's not yet scrapped, only broken))
+//and so on with all the bikes in the file
+
+
+
+
+

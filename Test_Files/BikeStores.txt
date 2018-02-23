@@ -1,0 +1,94 @@
+The Stunning Bike Store
+12
+urban
+urbanSimple
+child
+.
+urban
+29
+urbanSimple
+33
+child
+40
+.
+Amazing Bike Store
+10
+race
+.
+race
+69
+.
+Super Bike Store
+9
+child
+.
+child
+30
+.
+The Marvelous Bike Store
+9
+urban
+child
+.
+urban
+60
+child
+40
+.
+The Fantastic Bike Store
+7
+urban
+.
+urban
+31
+.
+The Incredible Bike Store
+7
+urbanSimple
+race
+.
+urbanSimple
+53
+race
+60
+.
+The Supreme Bike Store
+7
+urbanSimple
+.
+urbanSimple
+45
+.
+The Good Bike Store
+4
+urbanSimple
+race
+child
+.
+urbanSimple
+43
+race
+51
+child
+30
+.
+The Prodigious Bike Store
+4
+.
+urban
+29
+.
+The Great Bike Store
+3
+child
+.
+child
+71
+.
+The Awesome Bike Store
+1
+race
+.
+race
+52
+.

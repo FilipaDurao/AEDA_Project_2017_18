@@ -1,0 +1,88 @@
+1
+Antonio Silva
+as@rent.com
+rua dr roberto frias 2222
+966666666
+123456789
+urban
+1234
+0
+2505.6
+0
+2
+Maria Santos
+mariasantos@rab.com
+rua das flores 123
+999999999
+123456780
+race
+justanotherpassword
+0
+8
+0
+3
+Maria Santos
+mariasantos@rab.com
+rua das flores 123
+999999999
+123456780
+child
+justanotherpassword
+0
+15
+0
+4
+Manuel Costa
+manuelcosta@hotmail.com
+Avenida dos Aliados, 451
+989795424
+957684023
+race
+newPassword
+0
+19
+0
+5
+Zilda Costa
+zilda@gmail.com
+Avenida da Boavista, 321
+958705643
+657483920
+urban
+aPassword
+0
+20
+0
+6
+Ana Maria
+anam@sapo.com
+Avenida Gomes, 435
+546370987
+68795432
+urbanSimple
+olaAna
+0
+33
+0
+7
+Rui Silva
+ruisilva@gmail.com
+Avenida 25 de Abril, 1974
+867594012
+564067895
+urbanSimple
+olaola
+0
+12
+0
+8
+Manel Joaquim
+qw@rent.com
+krotr 35432
+345654345
+345678765
+urban
+olaolaola
+0
+7
+0

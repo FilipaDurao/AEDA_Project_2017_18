@@ -1,0 +1,33 @@
+RENT-A-BIKE
+Miguel Bombarda
+1
+1
+3
+Palacio de Cristal
+2
+1
+2
+Reitoria
+3
+3
+2
+Ribeira
+4
+3
+0
+Aliados
+5
+5
+2
+Trindade
+6
+6
+3
+Bolhao
+7
+7
+2
+FEUP
+8
+5
+4
